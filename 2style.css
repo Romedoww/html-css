@@ -1,0 +1,9 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.contac-form{
+	background-image: url('gon.jpg');
+}
